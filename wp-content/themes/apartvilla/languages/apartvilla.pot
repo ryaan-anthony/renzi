@@ -1,0 +1,905 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Apartvilla version 1.0\n"
+"POT-Creation-Date: 2016-01-20 17:17+0500\n"
+"PO-Revision-Date: 2016-01-20 17:18+0500\n"
+"Last-Translator: amir <amirkhan0617@gmail.com>\n"
+"Language-Team: Template Path <muhibbur@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;_n;_x\n"
+"X-Poedit-SearchPath-0: D:\\xampp\\htdocs\\test_work\\appartvilla\\wp-content"
+"\\themes\\apartvilla\n"
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/404.php:11
+msgid "404 Page"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/404.php:25
+msgid "Not Found "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/404.php:26
+msgid ""
+"Look like something went wrong! The page you were looking for is not here. "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/404.php:27
+msgid "BACK TOP HOME"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/blog-sponsor.php:9
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/blog.php:28
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/sidebar.php:18
+msgid "Read More"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/blog.php:18
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/blogv2.php:11
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/single.php:64
+msgid "By "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/blogv2.php:12
+msgid "Read more "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/comments.php:20
+msgid "Comments "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/comments.php:21
+msgid "You are not signed in. "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/comments.php:21
+msgid "Sign in"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/comments.php:21
+msgid " to post comments."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/comments.php:40
+msgid "Comment navigation"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/comments.php:41
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/comments.php:42
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/comments.php:46
+msgid "Comments are closed."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/comments.php:55
+msgid "Leave a Comment"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/footer.php:12
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/footer.php:14
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/footer.php:58
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/header-single.php:45
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/header-single.php:47
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/header-single.php:97
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/header-single.php:99
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:123
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/header_v1.php:25
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/header_v1.php:27
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/header_v1.php:57
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/header_v1.php:59
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/header_v1.php:107
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/header_v1.php:109
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/header_v2.php:24
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/header_v2.php:26
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/header_v2.php:78
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/header_v2.php:80
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/header_v3.php:23
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/header_v3.php:25
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/header_v3.php:76
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/header_v3.php:78
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/header_v4.php:23
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/header_v4.php:25
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/header_v4.php:76
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/header_v4.php:78
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/about_villa.php:19
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/agent_detail.php:9
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/contact_form.php:13
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/contact_form2.php:28
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/features_services.php:12
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/gallery_2_column.php:138
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/gallery_4_column.php:136
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/gallery_masonry.php:143
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/luxuary_villas.php:10
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/michale_jhon.php:9
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/property_detail.php:21
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/tour_villa.php:12
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/videos.php:18
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/villas_gallery.php:138
+msgid "image"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/footer.php:63
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/agent_detail.php:31
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/agent_form.php:16
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/contact_form.php:24
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/contact_form2.php:33
+msgid "Phone :"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/footer.php:63
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/agent_detail.php:32
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/agent_form.php:17
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/contact_form.php:25
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/contact_form2.php:34
+msgid "Email :"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/functions.php:34
+msgid "Main Menu"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/functions.php:35
+msgid "Side Menu"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/functions.php:36
+msgid "Footer Menu"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/functions.php:37
+msgid "Onepage Menu"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/functions.php:66
+msgid "Default Sidebar"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/functions.php:68
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/functions.php:89
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/functions.php:100
+msgid "Widgets in this area will be shown on the right-hand side."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/functions.php:76
+msgid "Footer Sidebar"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/functions.php:78
+msgid "Widgets in this area will be shown in Footer Area."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/functions.php:87
+msgid "Blog Listing"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/functions.php:98
+msgid "Page Sidebar"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/functions.php:173
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/functions.php:174
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/functions.php:179
+msgid "on"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/header-single.php:76
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/header_v2.php:57
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/header_v3.php:55
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/header_v4.php:55
+msgid "Request Call Back"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/functions.php:25
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:65
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:254
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:350
+msgid "All Categories"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/functions.php:49
+msgid "No Sidebar"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/functions.php:116
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/functions.php:719
+msgid "Home"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/functions.php:164
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/functions.php:165
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/functions.php:166
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/functions.php:167
+msgid "Archive for "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/functions.php:168
+msgid "Search Results for "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/functions.php:169
+msgid "404 - Not Found"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/functions.php:187
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/functions.php:214
+msgid "You must agreed the policy"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/functions.php:224
+msgid "Registration Successful - An email is sent"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/functions.php:228
+msgid "Username or email already exists.  Password inherited."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/functions.php:242
+msgid "commenter"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/functions.php:252
+msgid "Reply"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/functions.php:284
+msgid "Enter Your Name"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/functions.php:285
+msgid "Enter Your Email"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/functions.php:287
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/functions.php:298
+msgid "Write Your Message"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/functions.php:306
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/functions.php:307
+msgid "Cancel reply"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/functions.php:308
+msgid "Submit Now"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/functions.php:585
+msgid "Poor"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/functions.php:585
+msgid "Satisfactory"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/functions.php:585
+msgid "Good"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/functions.php:585
+msgid "Better"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/functions.php:585
+msgid "Awesome"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/functions.php:607
+#, php-format
+msgid "Average Rating %s"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/functions.php:647
+msgid "Loading..."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/functions.php:697
+msgid "logo"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/functions.php:727
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/functions.php:729
+msgid "Back"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:9
+msgid "apartvilla Recent Posts with image"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:9
+msgid "Show the recent posts with images"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:50
+msgid "Popular Posts"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:55
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:161
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:244
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:340
+msgid "Title: "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:59
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:248
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:344
+msgid "No. of Posts:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:64
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:253
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:349
+msgid "Category"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:108
+msgid "Apartvilla Meet Agent"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:108
+msgid "Show Meet Our Agent"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:151
+msgid "Meet Our Agent"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:155
+msgid "Merry Disalva"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:165
+msgid "Link URL: "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:169
+msgid "data-target: "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:173
+msgid "Image URL: "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:177
+msgid "Agent Name: "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:192
+msgid "apartvilla Services Posts"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:192
+msgid "Show the recent posts of services"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:239
+msgid "Our Services"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:288
+msgid "apartvilla Faqs Posts"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:288
+msgid "Show the recent posts of faqs"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:335
+msgid "Our Support"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:384
+msgid "apartvilla Subscribe to Mailing List"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:384
+msgid "create account on http://feedburner.com and allow users to subscribe"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:402
+msgid "Enter your email address"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:448
+msgid "Newsletter"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:456
+msgid "Title:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:460
+msgid "Text:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:464
+msgid "Feedburner ID:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/library/widgets.php:468
+msgid "Show Social Icons:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/loader.php:158
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/loader.php:159
+msgid "Theme Options"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/loader.php:162
+msgid "Facebook"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/loader.php:162
+msgid "Twitter"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/loader.php:162
+msgid "Dribble"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/loader.php:162
+msgid "Github"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/loader.php:163
+msgid "Flickr"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/loader.php:163
+msgid "Google+"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/loader.php:163
+msgid "Youtube"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/header_v1.php:83
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/header_v3.php:143
+msgid "Price: "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/header_v1.php:89
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/header_v4.php:126
+msgid "Schedule Visit "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/header_v3.php:148
+msgid "shedule visit"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/header_v4.php:123
+msgid "Price : "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/blog.php:38
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/blog_2col.php:44
+msgid "By:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/blog.php:43
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/blog_2col.php:54
+msgid "Read more"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/gallery_2_column.php:107
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/gallery_4_column.php:106
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/gallery_masonry.php:111
+msgid "All images"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/gallery_2_column.php:131
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/gallery_4_column.php:129
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/gallery_masonry.php:136
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/villas_gallery.php:131
+msgid "Details of "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/gallery_2_column.php:131
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/gallery_4_column.php:129
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/gallery_masonry.php:136
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/villas_gallery.php:131
+msgid "drawing room"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/testimonial.php:26
+msgid "“"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/modules/shortcodes/villas_gallery.php:103
+msgid "All"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:399
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3034
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:400
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2837
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:525
+msgid "Update Required"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:639
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:833
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3443
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:940
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:940
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:943
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:943
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1886
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2172
+msgid "Required"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2175
+msgid "Recommended"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2191
+msgid "WordPress Repository"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2194
+msgid "External Source"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2197
+msgid "Pre-Packaged"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2214
+msgid "Not Installed"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2218
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2220
+msgid "Active"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2226
+msgid "Required Update not Available"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2229
+msgid "Requires Update"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2232
+msgid "Update recommended"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2240
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2288
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2291
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2294
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2376
+msgid "unknown"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2384
+msgid "Installed version:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2392
+msgid "Minimum required version:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2404
+msgid "Available version:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2441
+msgid "Plugin"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2442
+msgid "Source"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2443
+msgid "Type"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2447
+msgid "Version"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2448
+msgid "Status"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2496
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2500
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2505
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2575
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2608
+msgid "Install"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2614
+msgid "Update"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2617
+msgid "Activate"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2648
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2650
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2686
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2688
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2793
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2819
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3033
+msgid "Plugin activation failed."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3367
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3369
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3374
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3375
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3375
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3381
+msgid "Show Details"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3375
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3381
+msgid "Hide Details"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3376
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3377
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3380
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3381
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3382
+msgid "All installations have been completed."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3383
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/vc_map.php:6
+msgid "bbPress Forums"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/vc_map.php:9
+msgid "Jollyall"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/vc_map.php:16
+msgid "Forum"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/vc_map.php:179
+msgid "Container"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/includes/vc_map.php:182
+msgid "Choose whether you want to add a container before row or not."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/search.php:62
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/search.php:93
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/search.php:124
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/searchform.php:3
+msgid "Enter Search Keywords"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/sidebar.php:8
+msgid "by : "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/sidebar.php:9
+msgid "in : "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/single.php:91
+msgid "Total "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/single.php:91
+msgid " Posts"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\appartvilla\wp-content\themes\apartvilla/single.php:116
+msgid "Pages: "
+msgstr ""
