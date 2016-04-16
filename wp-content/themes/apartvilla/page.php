@@ -1,9 +1,9 @@
-<?php 
+<?php
 $options = _WSH()->option();
 get_header('single');
 $style2 = '';
 $view = '';
-$blog_color2 = ''; 
+$blog_color2 = '';
 
 
 $settings  = apartvilla_set(apartvilla_set(get_post_meta(get_the_ID(), 'bunch_page_meta', true) , 'bunch_page_options') , 0);
@@ -34,25 +34,15 @@ $title = apartvilla_set($meta1, 'page_title');
 <!-- .blog-container -->
 <section class="blog-container <?php if($layout == 'left' || $layout == 'right') echo ' two-side-background'; if($blog_color2 == 'blog_color2') echo ' dark-bg';?>">
 	<div class="container">
-		<div class="row">
-			<?php if( $layout == 'left' ): ?>
-			<?php if ( is_active_sidebar( $sidebar ) ) { ?>
-            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 pull-left ptb-80">       
-            	<div class="sidebar-wrap gray left-side anim-5-all">
-                	<?php dynamic_sidebar( $sidebar ); ?>
-                </div>
-            </div>
-			<?php }?>
-			<?php endif; ?>
-			
-			<div class="<?php echo esc_attr($classes);?> <?php if($layout == 'left') echo ' pull-right white-right right-side ptb-80'; elseif($layout == 'right') echo ' white-left ptb-80 left-content'; else echo ' ptb-80';?>">
+
+			<div class="<?php echo esc_attr($classes);?>">
 				<!-- .single-blog-post -->
 				<?php while( have_posts() ): the_post();?>
-                	<div class="page-content">
+        	<div class="page-content">
 						<?php the_content();?>
 					</div>
 					<?php comments_template();?>
-                <?php endwhile;?>
+        <?php endwhile;?>
 
 				<!-- .pagination -->
 				<div class="pagination anim-5-all">
@@ -60,18 +50,7 @@ $title = apartvilla_set($meta1, 'page_title');
 				</div><!-- /.pagination -->
 
 			</div>
-			
-			<?php if( $layout == 'right' ): ?>
-			<?php if ( is_active_sidebar( $sidebar ) ) { ?>
-            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 ptb-80">       
-            	<div class="sidebar-wrap gray anim-5-all">
-                	<?php dynamic_sidebar( $sidebar ); ?>
-                </div>
-            </div>
-			<?php }?>
 
-		    <?php endif; ?>
-		</div>
 	</div>
 </section><!-- /.blog-container -->
 

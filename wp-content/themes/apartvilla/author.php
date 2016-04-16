@@ -1,10 +1,10 @@
-<?php bunch_global_variable(); 
+<?php bunch_global_variable();
 $options = _WSH()->option();
 get_header('single');
 $style2 = '';
 $view = '';
-$blog_color2 = ''; 
- 
+$blog_color2 = '';
+
 $settings  = _WSH()->option();
 if(apartvilla_set($settings, 'author_blog_style')=='blog_style2' || apartvilla_set($_GET, 'blog_style') == 'blog_style2' ) $style2 = 'blog_style2';
 if(apartvilla_set($settings, 'author_blog_color')=='blog_color2' || apartvilla_set($_GET, 'blog_color') == 'blog_color2' ) $blog_color2 = 'blog_color2';
@@ -17,7 +17,7 @@ $sidebar = apartvilla_set( $settings, 'author_page_sidebar', 'blog-sidebar' );
 _WSH()->page_settings = array('layout'=>$layout, 'view'=> $view, 'sidebar'=>$sidebar);
 $classes = ( !$layout || $layout == 'full' || apartvilla_set($_GET, 'layout_style')=='full' ) ? ' col-lg-12 col-md-12 col-sm-12 col-xs-12 ' : ' col-lg-8 col-md-8 col-sm-12 col-xs-12 ' ;
 
-if($style2) $classes = '';  
+if($style2) $classes = '';
 
 $bg = apartvilla_set($settings, 'author_page_header_img');
 $title = apartvilla_set($settings, 'author_page_header_title');
@@ -62,14 +62,14 @@ $title = apartvilla_set($settings, 'author_page_header_title');
 		<div class="row">
 			<?php if( $layout == 'left' ): ?>
 			<?php if ( is_active_sidebar( $sidebar ) ) { ?>
-            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 pull-left ptb-80">       
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 pull-left ptb-80">
             	<div class="sidebar-wrap gray left-side anim-5-all">
                 	<?php dynamic_sidebar( $sidebar ); ?>
                 </div>
             </div>
 			<?php }?>
 			<?php endif; ?>
-			
+
 			<div class="<?php echo esc_attr($classes);?> <?php if($layout == 'left') echo ' pull-right white-right right-side ptb-80'; elseif($layout == 'right') echo ' white-left ptb-80 left-content'; else echo ' ptb-80';?>">
 				<!-- .single-blog-post -->
 				<?php while( have_posts() ): the_post();?>
@@ -87,10 +87,10 @@ $title = apartvilla_set($settings, 'author_page_header_title');
 				</div><!-- /.pagination -->
 
 			</div>
-			
+
 			<?php if( $layout == 'right' ): ?>
 			<?php if ( is_active_sidebar( $sidebar ) ) { ?>
-            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 ptb-80">       
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 ptb-80">
             	<div class="sidebar-wrap gray anim-5-all">
                 	<?php dynamic_sidebar( $sidebar ); ?>
                 </div>

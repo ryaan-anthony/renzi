@@ -11,52 +11,52 @@
 
 1. imported styles
 2. Global styles
-3. section title Styles 
-4. gallery filter Styles 
-5. header Styles 
-6. banner Styles 
-7. about-section Styles 
-8. property-highlight Styles 
-9. luxury-villa Styles 
-10. gallery Styles 
-11. image-gallery Styles 
-12. room-dimention Styles 
-13. location-neighbouring Styles 
-14. blogs Styles 
-15. home google map Styles 
-16. parallax section Styles 
-17. appointment Styles 
-18. footer home Styles 
-19. top bar Styles 
-20. header v2 Styles 
-21. header inner Styles 
-22. page title Styles 
-23. about page content Styles 
-24. property highlight text Styles 
-25. call to action Styles 
-26. #check-video Styles 
-27.  featured option Styles 
-28. contact content Styles 
-29. call to action style two Styles 
-30. gallery page one Styles 
-31. gallery page two Styles 
-32. gallery page three Styles 
-33. appointment dark background Styles 
-34. take a tour video box Styles 
-35. featured option two Styles 
-36. sliding gallery Styles 
-37. two side background Styles 
-38. blog page content Styles 
-39. sidebar Styles 
-40. pagination Styles 
-41 single page content Styles 
-42. right sidebar single blog post spacing fix content Styles 
-43. author box Styles 
-44. comment box Styles 
-45. comment form Styles 
-46. hidden bar Styles 
+3. section title Styles
+4. gallery filter Styles
+5. header Styles
+6. banner Styles
+7. about-section Styles
+8. property-highlight Styles
+9. luxury-villa Styles
+10. gallery Styles
+11. image-gallery Styles
+12. room-dimention Styles
+13. location-neighbouring Styles
+14. blogs Styles
+15. home google map Styles
+16. parallax section Styles
+17. appointment Styles
+18. footer home Styles
+19. top bar Styles
+20. header v2 Styles
+21. header inner Styles
+22. page title Styles
+23. about page content Styles
+24. property highlight text Styles
+25. call to action Styles
+26. #check-video Styles
+27.  featured option Styles
+28. contact content Styles
+29. call to action style two Styles
+30. gallery page one Styles
+31. gallery page two Styles
+32. gallery page three Styles
+33. appointment dark background Styles
+34. take a tour video box Styles
+35. featured option two Styles
+36. sliding gallery Styles
+37. two side background Styles
+38. blog page content Styles
+39. sidebar Styles
+40. pagination Styles
+41 single page content Styles
+42. right sidebar single blog post spacing fix content Styles
+43. author box Styles
+44. comment box Styles
+45. comment form Styles
+46. hidden bar Styles
 47. stricky header Styles
-48. preloader  Styles  
+48. preloader  Styles
 
 ------------------------------------------
 ----------------------------------------*/
@@ -1249,7 +1249,7 @@ header.home-header .navbar-collapse.collapse {
   margin-bottom: 8px;
 }
 .agent-info .content h3 + p {
-  font-size: 14px;  
+  font-size: 14px;
 }
 .agent-info .content p {
   font-family: 'PT Serif', sans-serif;
@@ -2006,12 +2006,9 @@ footer p {
   display: none;
 }
 .blog-container .single-blog-post .post-meta .title-holder ul li a:after {
-  content: '|';
-  display: inline-block;
-  padding: 0 13px;
-  color: #B5B5B5;
+  display: none;
 }
-.blog-container .single-blog-post a.read-more {
+.blog-container .single-blog-post a.learn-more {
   text-transform: capitalize;
   display: inline-block;
   color: #2A2A2A;
@@ -2023,7 +2020,7 @@ footer p {
   font-style: italic;
   margin-top: 10px;
 }
-.blog-container .single-blog-post a.read-more:hover {
+.blog-container .single-blog-post a.learn-more:hover {
   color: #fff;
   background: #FFAE00;
   border-color: #FFAE00;
@@ -2404,79 +2401,7 @@ footer p {
 .blog-container .left-content .single-blog-post {
   margin-right: 20px;
 }
-/*======== author box Styles ===========*/
-.author-box {
-  margin-top: 40px;
-}
-.author-box .top-author-info {
-  background: #2A2A2A;
-  padding: 25px;
-}
-.author-box .top-author-info-content {
-  padding-left: 30px;
-}
-.author-box p {
-  color: #A3A3A3;
-  line-height: 26px;
-  margin: 0;
-}
-.author-box h4 {
-  color: #FFFFFF;
-  font-size: 16px;
-  font-weight: bold;
-  text-transform: uppercase;
-  margin-bottom: 10px;
-}
-.author-box h4 span {
-  font-size: 14px;
-  font-weight: normal;
-  text-transform: capitalize;
-}
-.author-box .img-holder {
-  width: 122px;
-}
-.author-box .img-holder img {
-  border-radius: 50%;
-}
-.author-box .bottom-author-info {
-  padding: 0 20px 0 30px ;
-  padding-top: 10px;
-  padding-bottom: 6px;
-  border-bottom: 1px solid  #EEE;
-  border-left: 1px solid  #EEE;
-  border-right: 1px solid  #EEE;
-}
-.author-box .submitted-post {
-  float: left;
-  display: inline-block;
-}
-.author-box .submitted-post span {
-  color: #A3A3A3;
-}
-.author-box .social-icons {
-  float: right;
-  display: inline-block;
-}
-.author-box .social-icons ul {
-  position: relative;
-  z-index: 99;
-  padding: 0;
-  text-align: right;
-  display: block;
-}
-.author-box .social-icons ul li {
-  display: inline;
-  font-size: 0;
-}
-.author-box .social-icons ul li a {
-  display: inline-block;
-  color: #2A2A2A;
-  font-size: 16px;
-  margin: 0 7.5px;
-}
-.author-box .social-icons ul li a:hover {
-  color: #FFAE00;
-}
+
 /*======== comment box Styles ===========*/
 .comment-box {
   margin-top: 40px;
@@ -2741,7 +2666,7 @@ footer p {
 .header-v3 .navbar-header .navbar-toggle span {
   background: #2A2A2A;
 }
-.header-inner.header-v3 .main-menu .navbar-collapse > ul > li.current > a, 
+.header-inner.header-v3 .main-menu .navbar-collapse > ul > li.current > a,
 .header-inner.header-v3 .main-menu .navbar-collapse > ul > li:hover > a {
   color: #E6A213;
 }
@@ -2855,7 +2780,7 @@ footer p {
   font-size: 30px;
   line-height: 46px;
   border-radius: 50%;
-  
+
 }
 .about-agent .contact-button ul li i.fa-envelope-o {
   font-size: 24px;
@@ -3091,7 +3016,7 @@ footer p {
   color: #000000;
   text-transform: uppercase;
   font-size: 16px;
-  border: none; 
+  border: none;
   padding: 11px 26px;
 }
 #banner-style-two .make-appointment .contact-form-wrap button[type='submit']:hover {
@@ -3164,13 +3089,13 @@ footer p {
 }
 #banner-style-two .banner-content a i {
   font-size: 18px;
-  color: #000000; 
+  color: #000000;
   margin-left: 15px;
 }
 #banner-style-two .banner-content-box {
   border-left: 2px solid #E8A20C;
   padding-left: 30px;
-  margin-bottom: 50px;  
+  margin-bottom: 50px;
 }
 #banner-style-two .banner-content a:hover {
   background: #000;
@@ -3382,7 +3307,7 @@ footer p {
   margin-top: 15px;
 }
 #agent-information .img-holder {
-  position: relative;  
+  position: relative;
 }
 #agent-information .img-holder:before {
   content: '';
@@ -3396,7 +3321,7 @@ footer p {
 
 /* contact style two styles */
 
-.contact-style-two { 
+.contact-style-two {
   background: #F2F2F2 url(../img/resources/contact-bg.jpg) no-repeat center left;
   -webkit-background-size: cover;
   background-size: cover;
@@ -3409,7 +3334,7 @@ footer p {
 .contact-style-two .right-side-overlay-full .contact-form-wrap {
   position: relative;
 }
-.contact-style-two .right-side-overlay-full:before { 
+.contact-style-two .right-side-overlay-full:before {
   background: #F2F2F2;
   content: '';
   position: absolute;
@@ -3418,7 +3343,7 @@ footer p {
   width: 2000px;
   height: 100%;
 }
-.contact-style-two .right-side-overlay-full .contact-form-wrap { 
+.contact-style-two .right-side-overlay-full .contact-form-wrap {
   padding-left: 100px;
 }
 .contact-style-two .contact-info-wrap {
@@ -3473,7 +3398,7 @@ footer p {
 /* pop up modal styles */
 
 #contact-agent-modal .modal-dialog {
-  
+
 }
 #contact-agent-modal .modal-dialog .modal-header {
   background: #E8A618;
@@ -3556,7 +3481,7 @@ footer p {
   margin-left: -10px;
   margin-right: -10px;
 }
-#contact-agent-modal .modal-contact-form .row [class^="col-"], 
+#contact-agent-modal .modal-contact-form .row [class^="col-"],
 #contact-agent-modal .modal-contact-form .row [class*="col-"] {
   padding: 0 10px;
 }
@@ -3582,7 +3507,7 @@ footer p {
   background-size: cover;
   width: 300px;
   border-radius: 5px;
-  
+
   text-align: center;
 }
 #slider-banner .property-details .inner-border {
@@ -3685,7 +3610,7 @@ footer p {
 }
 #slider-banner .property-details a.schedule-visit i {
   font-size: 18px;
-  color: #000000; 
+  color: #000000;
   margin-left: 15px;
 }
 #slider-banner .property-details a.schedule-visit:hover {
@@ -3703,7 +3628,7 @@ footer p {
 /* pop up single gallery item styles */
 
 #single-gallery-modal .modal-dialog {
-  
+
 }
 #single-gallery-modal .modal-dialog .modal-header {
   background: #E8A618;

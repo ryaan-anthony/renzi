@@ -9,7 +9,7 @@
 		<p><?php echo _apartvilla_trim(get_the_content(), 20);?></p>
 		<ul>
 			<li><span><b><?php esc_html_e('By ', 'apartvilla');?></b><?php the_author();?></span></li>
-			<li><a href="<?php echo esc_url(get_permalink(get_the_id()));?>"><?php esc_html_e('Read more ', 'apartvilla');?></a></li>
+			<li><a href="<?php echo esc_url(get_permalink(get_the_id()));?>"><?php esc_html_e('Learn more ', 'apartvilla');?></a></li>
 		</ul>
 	</div>
 </div> <!-- /.blog-wrap -->

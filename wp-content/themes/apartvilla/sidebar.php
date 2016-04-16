@@ -15,6 +15,6 @@
     </div><!-- end icon -->
     <div class="desc">
         <p> <?php the_excerpt(); ?> </p>
-        <a href="<?php echo esc_url(get_permalink(get_the_id())); ?>" class="readmore" title="<?php the_title_attribute(); ?>"><?php esc_html_e('Read More' , 'apartvilla'); ?><i class="icon-angle-double-right"></i></a>
+        <a href="<?php echo esc_url(get_permalink(get_the_id())); ?>" class="learnmore" title="<?php the_title_attribute(); ?>"><?php esc_html_e('Learn More' , 'apartvilla'); ?><i class="icon-angle-double-right"></i></a>
     </div><!-- end desc -->
-</div><!-- end blog-wrap -->                   
+</div><!-- end blog-wrap -->

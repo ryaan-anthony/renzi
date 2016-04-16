@@ -87,7 +87,7 @@
     margin-right: 11px;
     width: 110px;
   }
-  header.header-inner .main-menu .navbar-collapse.collapse {
+  header.header-inner .main-menu .navbar-collapse. {
     display: none !important;
   }
   header.header-inner .main-menu .navbar-header {
@@ -496,7 +496,7 @@
   .featured-option.style-two .content {
     padding: 0;
   }
-  #contact-agent-modal .modal-agent-info-box .img-holder, 
+  #contact-agent-modal .modal-agent-info-box .img-holder,
   #contact-agent-modal .modal-agent-info-box .content {
     display: block;
   }

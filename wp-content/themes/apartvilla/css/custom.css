@@ -3,7 +3,7 @@
 	padding-right:0px;
 }
 #page-title{
-	 background-image: url("../img/page-title/bg.jpg");
+	 background-image: url("../../../uploads/banner.jpg");
 }
 .post-categories {
     display: inline-block;
@@ -15,11 +15,8 @@
 	padding-bottom:80px;
 }
 .title-holder .post-categories li a:after{
-	color: #b5b5b5;
-    content: "|";
-    display: inline-block;
-    padding: 0 13px;
-	display:inline-block !important;
+	display: none;
+
 }
 .pagination > li:first-child > a, .pagination > li:first-child > span,
 .pagination > li:last-child > a, .pagination > li:last-child > span{
@@ -197,11 +194,11 @@ div.wpcf7-validation-errors{
 
 	#wp-calendar caption {
 
-		text-align: right; 
+		text-align: right;
 
-		color: #333; 
+		color: #333;
 
-		font-size: 12px; 
+		font-size: 12px;
 
 		margin-top: 10px;
 
@@ -209,69 +206,69 @@ div.wpcf7-validation-errors{
 
 	}
 
-	#wp-calendar thead { 
+	#wp-calendar thead {
 
 		font-size: 10px;
 
 	}
 
-	#wp-calendar thead th { 
+	#wp-calendar thead th {
 
 		padding-bottom: 10px;
 
 	}
 
-	#wp-calendar tbody { 
+	#wp-calendar tbody {
 
-		color: #aaa; 
+		color: #aaa;
 
 	}
 
-	#wp-calendar tbody td { 
+	#wp-calendar tbody td {
 
-		background: #f5f5f5; 
+		background: #f5f5f5;
 
-		border: 1px solid #fff; 
+		border: 1px solid #fff;
 
-		text-align: center; 
+		text-align: center;
 
 		padding:8px;
 
 	}
 
-	#wp-calendar tbody td:hover { 
+	#wp-calendar tbody td:hover {
 
-		background: #fff; 
-
-	}
-
-	#wp-calendar tbody .pad { 
-
-		background: none; 
+		background: #fff;
 
 	}
 
-	#wp-calendar tfoot #next { 
+	#wp-calendar tbody .pad {
 
-		font-size: 10px; 
+		background: none;
 
-		text-transform: uppercase; 
+	}
+
+	#wp-calendar tfoot #next {
+
+		font-size: 10px;
+
+		text-transform: uppercase;
 
 		text-align: right;
 
 	}
 
-	#wp-calendar tfoot #prev { 
+	#wp-calendar tfoot #prev {
 
-		font-size: 10px; 
+		font-size: 10px;
 
-		text-transform: uppercase; 
+		text-transform: uppercase;
 
-		padding-top: 10px; 
+		padding-top: 10px;
 
 	}
 
-	
+
 
 	.sticky .post {background: #efefef; border: 3px solid #fff; }
 	.sticky .post .post-content{ background-color:transparent; }
@@ -309,17 +306,17 @@ div.wpcf7-validation-errors{
 	}
 	.gallery-caption {}
 	.bypostauthor{}
-	.alignright{ 
+	.alignright{
 		text-align:right;
 	}
-	.alignleft{ 
+	.alignleft{
 		text-align:left;
 	}
 	.screen-reader-text{
 	}
-	.aligncenter{ 
+	.aligncenter{
 		text-align:center;
-	}	
+	}
 /*----------------------Default widget styling--------------------------*/
 	.widget select {
 		max-width: 100%;
@@ -380,7 +377,7 @@ div.wpcf7-validation-errors{
 .blog_post_area h1{
 	color:#000000;
 	margin-bottom:15px;
-	
+
 }
 .single-comment .content h4{
 	color:#000000;
@@ -402,7 +399,7 @@ div.wpcf7-validation-errors{
     padding: 8px;
     vertical-align: top;
 }
-.content ul li,.single-comment .content ul li,.page-content ul li{ list-style-type:disc !important; display:list-item;} 
+.content ul li,.single-comment .content ul li,.page-content ul li{ list-style-type:disc !important; display:list-item;}
 .content ol li,.single-comment .content ol li,.page-content ol li{ list-style:decimal !important;}
 .content ul,.single-comment .content ul,.page-content ul{
 	padding-left:40px;

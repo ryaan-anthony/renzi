@@ -4,11 +4,11 @@ $options = _WSH()->option();
 get_header('single');
 $style2 = '';
 $view = '';
-$blog_color2 = ''; 
- 
+$blog_color2 = '';
+
 
 $meta = _WSH()->get_term_meta( '_bunch_category_settings' );
-_WSH()->page_settings = $meta; 
+_WSH()->page_settings = $meta;
 if(apartvilla_set($meta, 'cat_blog_color')=='blog_color2' || apartvilla_set($_GET, 'blog_color') == 'blog_color2' ) $blog_color2 = 'blog_color2';
 if(apartvilla_set($_GET, 'layout_style')) $layout = apartvilla_set($_GET, 'layout_style'); else
 $layout = apartvilla_set( $meta, 'layout', 'right' );
@@ -21,8 +21,9 @@ $classes = ( !$layout || $layout == 'full' || apartvilla_set($_GET, 'layout_styl
 $bg = apartvilla_set($meta, 'cat_bg');
 $title = apartvilla_set($meta, 'cat_title');
 ?>
-<!-- #page-title -->
-<section id="page-title" <?php if($bg):?>style="background-image: url('<?php echo esc_attr($bg)?>');"<?php endif;?>>
+
+
+<section id="page-title" style="background: none;    padding: 40px 0;">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
@@ -31,48 +32,21 @@ $title = apartvilla_set($meta, 'cat_title');
 		</div>
 	</div>
 </section><!-- /#page-title -->
+
 <!-- .blog-container -->
 <section class="blog-container <?php if($layout == 'left' || $layout == 'right') echo ' two-side-background'; if($blog_color2) echo ' dark-bg';?>">
 	<div class="container">
-		<div class="row">
-			<?php if( $layout == 'left' ): ?>
-			<?php if ( is_active_sidebar( $sidebar ) ) { ?>
-            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 pull-left ptb-80">       
-            	<div class="sidebar-wrap gray left-side anim-5-all">
-                	<?php dynamic_sidebar( $sidebar ); ?>
-                </div>
-            </div>
-			<?php }?>
-			<?php endif; ?>
-			
-			<div class="<?php echo esc_attr($classes);?> <?php if($layout == 'left') echo ' pull-right white-right right-side ptb-80'; elseif($layout == 'right') echo ' white-left ptb-80 left-content'; else echo ' ptb-80';?>">
-				<!-- .single-blog-post -->
-				<?php while( have_posts() ): the_post();?>
-                	<!-- blog post item -->
-                    <!-- Post -->
-					<div id="post-<?php the_ID(); ?>" <?php post_class();?>>
-                		<?php get_template_part( 'blog' ); ?>
-                	<!-- blog post item -->
-                    </div><!-- End Post -->
-                <?php endwhile;?>
-
-				<!-- .pagination -->
-				<div class="pagination anim-5-all">
-					<?php apartvilla_the_pagination(); ?>
-				</div><!-- /.pagination -->
-
-			</div>
-			
-			<?php if( $layout == 'right' ): ?>
-			<?php if ( is_active_sidebar( $sidebar ) ) { ?>
-            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 ptb-80">       
-            	<div class="sidebar-wrap gray anim-5-all">
-                	<?php dynamic_sidebar( $sidebar ); ?>
-                </div>
-            </div>
-			<?php }?>
-
-		    <?php endif; ?>
+		<div class="<?php echo esc_attr($classes);?>">
+			<?php while( have_posts() ): the_post();?>
+        <!-- Post -->
+				<div id="post-<?php the_ID(); ?>" <?php post_class();?>>
+      		<?php get_template_part( 'blog' ); ?>
+        </div><!-- End Post -->
+      <?php endwhile;?>
+			<!-- .pagination -->
+			<div class="pagination anim-5-all">
+				<?php apartvilla_the_pagination(); ?>
+			</div><!-- /.pagination -->
 		</div>
 	</div>
 </section><!-- /.blog-container -->

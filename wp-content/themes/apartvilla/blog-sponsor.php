@@ -6,7 +6,7 @@
 		<div class="col-lg-8">
 			<h2><a href="<?php echo esc_url(get_permalink(get_the_id()));?>"><?php the_title();?></a></h2>
 			<p><?php echo get_the_excerpt();?></p>
-			<a href="<?php echo esc_url(get_permalink(get_the_id()));?>"><?php esc_html_e('Read More', 'apartvilla');?></a>
+			<a href="<?php echo esc_url(get_permalink(get_the_id()));?>"><?php esc_html_e('Learn More', 'apartvilla');?></a>
 		</div>
 	</div>
-</div>                    
+</div>
