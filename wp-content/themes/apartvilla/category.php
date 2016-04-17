@@ -21,32 +21,23 @@ $classes = ( !$layout || $layout == 'full' || apartvilla_set($_GET, 'layout_styl
 $bg = apartvilla_set($meta, 'cat_bg');
 $title = apartvilla_set($meta, 'cat_title');
 ?>
-
-
-<section id="page-title" style="background: none;    padding: 40px 0;">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-12">
-				<h2><?php if($title) echo balanceTags($title); else wp_title('');?></h2>
-			</div>
-		</div>
-	</div>
-</section><!-- /#page-title -->
-
 <!-- .blog-container -->
 <section class="blog-container <?php if($layout == 'left' || $layout == 'right') echo ' two-side-background'; if($blog_color2) echo ' dark-bg';?>">
 	<div class="container">
-		<div class="<?php echo esc_attr($classes);?>">
+		<div class="page-title">
+            <h2><?php if($title) echo balanceTags($title); else wp_title('');?></h2>
+		</div>
+		<div class="page-content">
 			<?php while( have_posts() ): the_post();?>
-        <!-- Post -->
-				<div id="post-<?php the_ID(); ?>" <?php post_class();?>>
-      		<?php get_template_part( 'blog' ); ?>
-        </div><!-- End Post -->
-      <?php endwhile;?>
-			<!-- .pagination -->
-			<div class="pagination anim-5-all">
-				<?php apartvilla_the_pagination(); ?>
-			</div><!-- /.pagination -->
+            <!-- Post -->
+            <div id="post-<?php the_ID(); ?>" <?php post_class();?>>
+                <?php get_template_part( 'blog' ); ?>
+            </div><!-- End Post -->
+            <?php endwhile;?>
+            <!-- .pagination -->
+            <div class="pagination anim-5-all">
+            	<?php apartvilla_the_pagination(); ?>
+            </div><!-- /.pagination -->
 		</div>
 	</div>
 </section><!-- /.blog-container -->
