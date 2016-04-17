@@ -1,4 +1,4 @@
-<?php bunch_global_variable();  die;
+<?php bunch_global_variable();  
 $options = _WSH()->option();
 get_header('single');
 $style2 = '';
