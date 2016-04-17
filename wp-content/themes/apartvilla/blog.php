@@ -12,7 +12,7 @@
 			</div><!-- /.img-holder -->
   <?php endif;?>
 	<!-- .post-meta -->
-	<div class="post-meta<?php if(has_post_thumbnail()):?> col-md-8<?php endif;?>">
+	<div class="<?php if(has_post_thumbnail()):?>col-md-8<?php endif;?>">
 		<div class="title-holder">
 			<h2 class="title"><a title="<?php the_title_attribute();?>" href="<?php echo esc_url(get_permalink(get_the_id()));?>"><?php the_title();?></a></h2>
 			<p><?php the_category();?></p>
