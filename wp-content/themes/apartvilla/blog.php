@@ -21,7 +21,7 @@
 		<div class="content">
 			<p><?php echo get_the_excerpt();?></p>
 
-			<a href="<?php echo esc_url(get_permalink(get_the_id()));?>" class="learn-more"><?php esc_html_e('Learn More', 'apartvilla');?></a>
+			<a href="<?php echo esc_url(get_permalink(get_the_id()));?>" class="learn-more"><?php esc_html_e('Learn More About This Property', 'apartvilla');?></a>
 		</div><!-- /.content -->
 	</div><!-- /.post-meta -->
 

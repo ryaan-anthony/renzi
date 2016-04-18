@@ -40,7 +40,14 @@ $title = apartvilla_set($meta1, 'page_title');
 							<?php the_content();?>
 							<span class="tags"><?php the_tags();?></span>
 						</div>
-
+						<div class="row">
+							<div class="col-md-6">
+           <a href="http://robotpower.me/wordpress/contact/"  class="btn btn-primary btn-lg btn-block btn-warning-outline" role="button">Schedule Visit</a>
+				 </div>
+				 <div class="col-md-6">
+					 <a href="http://robotpower.me/wordpress/rental-application/"  class="btn btn-primary btn-lg btn-block btn-warning-outline" role="button">Apply Now</a>
+				 </div>
+			 </div>
 						<div class="social-icons">
 									<ul>
 										<?php if($value = get_the_author_meta('facebook') ): ?>

@@ -399,10 +399,9 @@ div.wpcf7-validation-errors{
     padding: 8px;
     vertical-align: top;
 }
-.content ul li,.single-comment .content ul li,.page-content ul li{ list-style-type:disc !important; display:list-item;}
+.content ul li,.single-comment .content ul li,.page-content ul li{ display:list-item;}
 .content ol li,.single-comment .content ol li,.page-content ol li{ list-style:decimal !important;}
 .content ul,.single-comment .content ul,.page-content ul{
-	padding-left:40px;
 	padding-bottom:0px;
 	padding-top:0px;
 }
