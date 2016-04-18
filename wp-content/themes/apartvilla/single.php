@@ -43,6 +43,7 @@ $title = apartvilla_set($meta1, 'page_title');
 						<div class="row">
 							<div class="col-md-6">
            <a href="http://robotpower.me/wordpress/contact/"  class="btn btn-primary btn-lg btn-block btn-warning-outline" role="button">Schedule Visit</a>
+				 </br>
 				 </div>
 				 <div class="col-md-6">
 					 <a href="http://robotpower.me/wordpress/rental-application/"  class="btn btn-primary btn-lg btn-block btn-warning-outline" role="button">Apply Now</a>
