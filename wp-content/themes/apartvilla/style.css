@@ -309,7 +309,7 @@ header.home-header .navbar-collapse.collapse {
   font-size: 15px;
   font-weight: bold;
   text-transform: uppercase;
-  color: #fff;
+  color: #2a2a2a;
   padding: 0 18px;
 }
 .main-menu .navbar-collapse > ul > li:hover > ul {
@@ -1374,7 +1374,7 @@ footer p {
 }
 /*======== header inner Styles ===========*/
 .header-inner {
-  background: #E8A20C;
+  background: #f9f9f9;
 }
 .header-inner .logo {
   margin-top: 21px;
@@ -1393,7 +1393,7 @@ footer p {
 }
 .header-inner .main-menu .navbar-collapse > ul > li.current > a,
 .header-inner .main-menu .navbar-collapse > ul > li:hover > a {
-  color: #2A2A2A;
+  color: #ffae00;
 }
 .header-inner .navbar-header {
   margin: 27px 0;
