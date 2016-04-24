@@ -306,10 +306,9 @@ header.home-header .navbar-collapse.collapse {
 }
 .main-menu .navbar-collapse > ul > li > a {
   display: inline-block;
-  font-size: 15px;
+  font-size: 20px;
   font-weight: bold;
   text-transform: uppercase;
-  color: #2a2a2a;
   padding: 0 18px;
 }
 .main-menu .navbar-collapse > ul > li:hover > ul {
@@ -324,14 +323,14 @@ header.home-header .navbar-collapse.collapse {
 .main-menu .navbar-collapse > ul > li.dropdown > a:after {
   content: '\f107';
   font-family: 'FontAwesome';
-  color: #fff;
+  color: #48463e;
   margin-left: 10px;
   font-size: 15px;
   font-weight: 600;
 }
 .main-menu .navbar-collapse > ul > li.dropdown:hover > a:after,
 .main-menu .navbar-collapse > ul > li.dropdown.current > a:after {
-  color: #2A2A2A;
+  color: #ffae00;
 }
 .home-header .main-menu .navbar-collapse > ul > li.dropdown:hover > a:after,
 .home-header .main-menu .navbar-collapse > ul > li.dropdown.current > a:after {
@@ -1100,9 +1099,6 @@ header.home-header .navbar-collapse.collapse {
 .single-blog-post .img-holder .overlay a .fa {
   display: none;
 }
-.single-blog-post ul {
-  padding: 19px 0 26px;
-}
 .single-blog-post ul li {
   display: inline;
 }
@@ -1126,7 +1122,7 @@ header.home-header .navbar-collapse.collapse {
   margin-right: 10px;
 }
 .single-blog-post h2.title {
-  font-size: 16px;
+  font-size: 24px;
   font-weight: bold;
   text-transform: uppercase;
   color: #000000;
