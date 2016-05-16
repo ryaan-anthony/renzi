@@ -42,11 +42,11 @@ $title = apartvilla_set($meta1, 'page_title');
 						</div>
 						<div class="row">
 							<div class="col-md-6">
-           			<a href="http://robotpower.me/wordpress/contact/"  class="btn-warning btn-lg btn-block text-center" role="button"><span class="glyphicon glyphicon-phone-alt" aria-hidden="true"></span>   Schedule Visit</a>
+           			<a href="<?php echo site_url('contact') ?>"  class="btn-warning btn-lg btn-block text-center" role="button"><span class="glyphicon glyphicon-phone-alt" aria-hidden="true"></span>   Schedule Visit</a>
 						 		</br>
 					 		</div>
 							<div class="col-md-6">
-							 <a href="http://robotpower.me/wordpress/rental-application/"  class="btn-warning btn-lg btn-block text-center" role="button"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>   Apply Now</a>
+							 <a href="<?php echo site_url('rental-application') ?>"  class="btn-warning btn-lg btn-block text-center" role="button"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>   Apply Now</a>
 						 	</div>
 			 			</div>
 						<div class="social-icons">
@@ -70,11 +70,6 @@ $title = apartvilla_set($meta1, 'page_title');
 								</div>
 							</div>
 						</div><!-- /.author-box -->
-
-						<!-- .comment-form -->
-							<?php wp_link_pages(array('before'=>'<div class="paginate-links">'.esc_html__('Pages: ', 'apartvilla'), 'after' => '</div>', 'link_before'=>'<span>', 'link_after'=>'</span>')); ?>
-							<?php comments_template(); ?><!-- end comments -->
-						<!-- /.comment-form -->
 
 					</div><!-- /.single-blog-post -->
                 <?php endwhile;?>
