@@ -41,7 +41,6 @@ $title = apartvilla_set($meta1, 'page_title');
         	<div class="page-content">
 						<?php the_content();?>
 					</div>
-					<?php comments_template();?>
         <?php endwhile;?>
 
 				<!-- .pagination -->
